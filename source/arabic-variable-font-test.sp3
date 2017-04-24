@@ -9,7 +9,7 @@
     <data name="lineInverted" value="True"/>
     <data name="lineViewFilled" value="True"/>
     <data name="lineStacked" value="sequence"/>
-    <data name="generateFontsAtFolder" value="instances"/>
+    <data name="generateFontsAtFolder" value="/Users/eli/type/variable-font-tests/arabic-variable-font-test/source/instances"/>
     <data name="previewtext" value="/beh"/>
     <data name="verticalPreviewAxis" value="None"/>
     <!-- don't generate these glyphs -->
@@ -19,13 +19,13 @@
         <color a="1.000" b="0.764" g="0.000" r="0.989"/>
     </axis>
     <!-- master definitions -->
-    <master familyname="Unnamed Font" filename="regular-medium.ufo" sortorder="0" stylename="Undefined Style">
+    <master familyname="test" filename="regular-medium.ufo" sortorder="0" stylename="regular-medium">
         <location>
             <dimension name="weight" xvalue="0.000000"/>
         </location>
         <color a="1.000" b="0.300" g="0.300" r="0.300"/>
     </master>
-    <master familyname="Unnamed Font" filename="regular-black.ufo" sortorder="1" stylename="Undefined Style">
+    <master familyname="test" filename="regular-black.ufo" sortorder="1" stylename="regular-black">
         <location>
             <dimension name="weight" xvalue="1000.000000"/>
         </location>

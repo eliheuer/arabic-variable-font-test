@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="3">
     <axes>
-        <axis default="0" maximum="1000" minimum="0" name="weight" tag="wght" />
+        <axis default="0.0" maximum="1000.0" minimum="0.0" name="weight" tag="wght" />
     </axes>
     <sources>
-        <source filename="regular-medium.ufo">
+        <source familyname="test" filename="regular-medium.ufo" stylename="regular-medium">
             <location>
                 <dimension name="weight" xvalue="0" />
             </location>
         </source>
-        <source filename="regular-black.ufo">
+        <source familyname="test" filename="regular-black.ufo" stylename="regular-black">
             <location>
                 <dimension name="weight" xvalue="1000" />
             </location>
